@@ -36,7 +36,7 @@
 
 - 😄 Pronouns: **she/her**
   
-- 💬 I also go by Ria!
+- 🪶 I also go by Ria!
 <!--Intro end-->
 
 
