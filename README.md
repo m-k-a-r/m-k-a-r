@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **Conversational AI, Generative Language Models, and Ethical AI**
 
-- 😄 Pronouns: she/her
+- 😄 Pronouns: **she/her**
 <!--Intro end-->
 
 
