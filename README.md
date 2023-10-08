@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Malini! <a href="https://emoji.gg/emoji/3163-purinclap"><img src="https://cdn3.emoji.gg/emojis/3163-purinclap.gif" width="64px" height="64px" alt="pompompurin_clap"></a></h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Malini! I also go by Ria <a href="https://emoji.gg/emoji/3163-purinclap"><img src="https://cdn3.emoji.gg/emojis/3163-purinclap.gif" width="64px" height="64px" alt="pompompurin_clap"></a></h1></summary>
   </ul>
 </div>
 
