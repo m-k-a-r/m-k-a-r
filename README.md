@@ -83,7 +83,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,pytorch,tensorflow,aws,github,c,cpp,css,html,java,js,linux,mongodb,mysql,postgres,nextjs,nodejs,react,vscode,androidstudio,dart,flutter,vscode,matlab,arduino,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,py,pytorch,tensorflow,aws,github,c,cpp,css,html,java,js,linux,mongodb,mysql,postgres,nextjs,nodejs,react,vscode,androidstudio,dart,flutter,matlab,arduino,&perline=14" />
   </a>
 </p>
 
