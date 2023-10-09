@@ -33,8 +33,6 @@
 - ☁️ Programming Languages: **Python. R. SQL. C/C++. Java. Javascript. MATLAB. Dart.**
 
 - 💬 Ask me about **Conversational AI, Generative Language Models, and Ethical AI**
-
-- 😄 Pronouns: **she/her**
   
 - 🪶 I also go by **Ria**!
 <!--Intro end-->
